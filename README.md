@@ -2,13 +2,6 @@
 
 This Arduino project implements a **smart gate system** that automatically opens and closes a barrier based on proximity sensing using an ultrasonic sensor. It simulates a basic vehicle detection and access control mechanism using a servo motor, LEDs, and a buzzer for visual and audio feedback.
 
----
-
-## 📷 Preview (Optional)
-*Add images or wiring diagram here*
-
----
-
 ## 🔧 Hardware Used
 
 - Arduino UNO/Nano/compatible board
